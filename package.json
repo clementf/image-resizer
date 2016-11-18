@@ -1,0 +1,15 @@
+{
+  "name": "image-resizer",
+  "version": "0.1.0",
+  "description": "Simple node module that resize images on the fly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "gm": "^1.23.0"
+  }
+}
